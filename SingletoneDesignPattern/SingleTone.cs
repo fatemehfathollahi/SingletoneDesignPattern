@@ -18,7 +18,7 @@ namespace SingletoneDesignPattern
         private class GetInstanceSingle
         {
             static GetInstanceSingle()
-            {
+            { 
 
             }
 
